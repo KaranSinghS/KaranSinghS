@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 - LinkedIn - www.linkedin.com/in/karan-singh-swanni-175a9215b
 - Twitter  - https://twitter.com/KaranSwanni?t=2pXTtiV4-kKEydoxefP8Hw&s=09
+- [![@karanswanni's Holopin board](https://holopin.me/karanswanni)](https://holopin.io/@karanswanni)
 
 <!---
 KaranSinghS/KaranSinghS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
